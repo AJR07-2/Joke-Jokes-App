@@ -11,6 +11,7 @@
 		3A304E292661EF6500ACCBD5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A304E282661EF6500ACCBD5 /* ContentView.swift */; };
 		3A304E2B2661EF6800ACCBD5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A304E2A2661EF6800ACCBD5 /* Assets.xcassets */; };
 		3A304E2E2661EF6800ACCBD5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A304E2D2661EF6800ACCBD5 /* Preview Assets.xcassets */; };
+		3A304E382661F06100ACCBD5 /* FeedbackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A304E372661F06100ACCBD5 /* FeedbackView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3A304E2A2661EF6800ACCBD5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A304E2D2661EF6800ACCBD5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3A304E2F2661EF6800ACCBD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A304E372661F06100ACCBD5 /* FeedbackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedbackView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3A304E262661EF6500ACCBD5 /* Jokes_App_Acc_To_LessonApp.swift */,
 				3A304E282661EF6500ACCBD5 /* ContentView.swift */,
+				3A304E372661F06100ACCBD5 /* FeedbackView.swift */,
 				3A304E2A2661EF6800ACCBD5 /* Assets.xcassets */,
 				3A304E2F2661EF6800ACCBD5 /* Info.plist */,
 				3A304E2C2661EF6800ACCBD5 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				3A304E292661EF6500ACCBD5 /* ContentView.swift in Sources */,
 				3A304E272661EF6500ACCBD5 /* Jokes_App_Acc_To_LessonApp.swift in Sources */,
+				3A304E382661F06100ACCBD5 /* FeedbackView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
